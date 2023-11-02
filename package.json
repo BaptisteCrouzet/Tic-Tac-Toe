@@ -9,7 +9,7 @@
     "gulp-butternut": "^1.0.0",
     "gulp-compass": "^2.1.0",
     "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^8.0.0",
+    "gulp-imagemin": "^9.0.0",
     "gulp-lzmajs": "^1.2.1",
     "gulp-more-css": "^1.0.0",
     "gulp-postcss": "^9.0.0",
