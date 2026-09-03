@@ -4,7 +4,7 @@
   "description": "Portfolio Baptiste CROUZET",
   "main": "gulpfile.js",
   "devDependencies": {
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-butternut": "^1.0.0",
     "gulp-compass": "^2.1.0",
