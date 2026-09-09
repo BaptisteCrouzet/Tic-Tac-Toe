@@ -18,9 +18,7 @@
       "automerge": true
     }
   ],
-  "assignAutomerge": true,
-  "assignees": ["BaptisteCrouzet"],
+  "assignAutomerge": false,
   "baseBranches": ["master"],
-  "branchPrefix": "hotfix/",
   "semanticCommits": "enabled"
 }
