@@ -13,7 +13,7 @@
     "gulp-lzmajs": "^1.2.1",
     "gulp-more-css": "^1.0.0",
     "gulp-postcss": "^9.0.0",
-    "gulp-sass": "^5.0.0",
+    "gulp-sass": "^6.0.0",
     "gulp-scss": "^1.4.0",
     "gulp-sourcemaps": "^3.0.0",
     "gulp-uglify": "^3.0.2",
